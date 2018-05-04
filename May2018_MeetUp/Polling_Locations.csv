@@ -1,0 +1,867 @@
+name,altName,precinct,zipCode,legislative,congressional,judicial,appellate,councilman,isPublic,snowRoute,Location 1
+Hampstead Hill Academy,School No. 47,1,21224,46,3,8,6,1,1,Primary,"500 Linwood Avenue
+Baltimore, MD
+(39.28596538, -76.5758974)"
+Engine House No. 5,Engine House No. 5,2,21231,46,3,8,6,1,1,Primary,"2120 Eastern Avenue
+Baltimore, MD
+(39.28596212, -76.58637911)"
+Hampstead Hill Academy,School No. 47,3,21224,46,3,8,6,1,1,Primary,"500 Linwood Avenue
+Baltimore, MD
+(39.28596538, -76.5758974)"
+St. Brigid's Church,St. Brigid's Church,4,21224,46,3,8,6,1,1,Primary,"900 East Avenue
+Baltimore, MD
+(39.28235066, -76.57136559)"
+Hatton Senior Citizens Center,Hatton Senior Citizens Cen,5,21224,46,3,8,6,1,1,Secondary,"2825 Fait Avenue
+Baltimore, MD
+(39.28312929, -76.57598627)"
+St. Michaels' Church Hall,St. Michaels' Church Hall,1,21231,46,3,8,6,1,1,Primary,"1 Wolfe Street
+Baltimore, MD
+(39.29129148, -76.5903272)"
+General Wolfe Elementary,School No. 23,2,21231,46,3,8,6,1,1,Primary,"245 Wolfe Street
+Baltimore, MD
+(39.2886566, -76.59016347)"
+Lemko House,Lemko House,3,21231,46,3,8,6,1,1,Primary,"603 Ann Street
+Baltimore, MD
+(39.28460318, -76.59121826)"
+Lombard Middle,School No. 57,1,21231,46,7,8,6,1,1,Primary,"1601 Lombard St
+Baltimore, MD
+(39.28628727, -76.64226438)"
+St. Leo's Church Hall,St. Leo's Church Hall,3,21202,46,3,8,6,1,1,Primary,"225 Exeter Street
+Baltimore, MD
+(39.2873401, -76.60104623)"
+Charles Twin Tower Apartme,Charles Twin Tower Apartme,1,21201,46,7,8,6,11,1,Primary,"222 Charles Street
+Baltimore, MD
+(39.29164287, -76.6153778)"
+Steadman Fire Station,Steadman Fire Station,2,21201,44,7,8,6,11,1,Primary,"15 Eutaw Street
+Baltimore, MD
+(39.28811284, -76.62074179)"
+Murty Center-Poe Auditorium,Murty Center-Poe Auditorium,3,21201,44,7,8,6,11,1,Primary,"206 Fremont Avenue
+Baltimore, MD
+(39.2911959, -76.63022937)"
+Pleasant View Gardens,Pleasant View Gardens,1,21202,44,7,8,6,12,1,Primary,"201 Aisquith Street
+Baltimore, MD
+(39.29395766, -76.60160474)"
+Monument East Apartments,Monument East Apartments,2,21202,44,7,8,6,12,1,Primary,"633 Asquith Street
+Baltimore, MD
+(39.29777874, -76.60198884)"
+William Paca Elementary,School No. 83,1,21224,46,7,8,6,13,1,Primary,"200 Lakewood Avenue
+Baltimore, MD
+(39.29471291, -76.5793166)"
+Commodore John Rogers Elem,School No. 27,2,21231,45,7,8,6,13,1,Secondary,"100 Chester Street
+Baltimore, MD
+(39.29342614, -76.58763127)"
+Commodore John Rogers Elem,School No. 27,3,21231,44,7,8,6,13,1,Secondary,"100 Chester Street
+Baltimore, MD
+(39.29342614, -76.58763127)"
+Commodore John Rogers Elem,School No. 27,4,21231,46,7,8,6,1,1,Secondary,"100 Chester Street
+Baltimore, MD
+(39.29342614, -76.58763127)"
+William Paca Elementary,School No. 83,5,21224,46,3,8,6,1,1,Primary,"200 Lakewood Avenue
+Baltimore, MD
+(39.29471291, -76.5793166)"
+Tench Tilghman Elementary,School No. 13,2,21205,44,7,8,6,13,0,Primary,"600 Patterson Park
+Baltimore, MD
+(39.29763506, -76.58515914)"
+Tench Tilghman Elementary,School No. 13,3,21205,45,7,8,6,13,1,Primary,"600 Patterson Park
+Baltimore, MD
+(39.29763506, -76.58515914)"
+Bocek Playfield,Bocek Playfield,4,21205,45,7,8,6,13,1,Primary,"3000 Madison Street
+Baltimore, MD
+(39.30026577, -76.57494982)"
+The Maryland State Boychoir Center for the Arts,The Maryland State Boychoir Center for the Arts,1,21213,45,3,8,6,3,1,Secondary,"3400 Norman Avenue
+Baltimore, MD
+(39.32689274, -76.5795581)"
+The Maryland State Boychoir Center for the Arts,The Maryland State Boychoir Center for the Arts,2,21213,45,3,8,6,3,0,Secondary,"3400 Norman Avenue
+Baltimore, MD
+(39.32689274, -76.5795581)"
+Catholic High School,Catholic High School,3,21213,45,7,8,6,13,0,Primary,"2800 Edison Highway
+Baltimore, MD
+(39.31653188, -76.5730892)"
+Harford Heights Elementary,School No. 36,4,21213,45,7,8,6,14,1,Primary,"1919 Broadway
+Baltimore, MD
+(39.31278561, -76.5952483)"
+Harford Heights Elementary,School No. 36,5,21213,45,7,8,6,12,1,Primary,"1919 Broadway
+Baltimore, MD
+(39.31278561, -76.5952483)"
+Dr. Bernard Harris Sr. Elem,School No. 250,6,21213,45,7,8,6,12,1,Primary,"1400 Caroline Street
+Baltimore, MD
+(39.3062744, -76.59821397)"
+Dr. Bernard Harris Sr. Elem,School No. 250,7,21213,45,7,8,6,12,0,Primary,"1400 Caroline Street
+Baltimore, MD
+(39.3062744, -76.59821397)"
+Truck Co. No. 15,Truck Co. No. 15,8,21213,45,7,8,6,13,1,Secondary,"1223 Montford Ave
+Baltimore, MD
+(39.30523544, -76.58401491)"
+Collington Square Rec Center,Collington Square Recreati,9,21213,45,7,8,6,13,1,Secondary,"1409 Collington Avenue
+Baltimore, MD
+(39.30714672, -76.58707268)"
+Forth Worthington Elementary,School No. 85,10,21213,45,7,8,6,13,1,Secondary,"2701 Oliver Street
+Baltimore, MD
+(39.30797262, -76.58000896)"
+Lakewood Elementary,School No. 86,11,21213,45,7,8,6,13,1,Primary,"2625 Federal Street
+Baltimore, MD
+(39.30894802, -76.58101893)"
+Church of the Redeemed of God,Church of the Redeemed of,1,21212,43,7,8,6,14,1,Primary,"4321 Old York Road
+Baltimore, MD
+(39.3415951, -76.60780537)"
+Ellerslie Apartments,Ellerslie Apartments,2,21218,43,7,8,6,14,1,Primary,"601 Wyanoke Avenue
+Baltimore, MD
+(39.33722315, -76.60752749)"
+Waverly Elem/Middle,School No. 51,3,21218,43,7,8,6,14,1,Primary,"3400 Ellerslie Avenue
+Baltimore, MD
+(39.3298657, -76.60371112)"
+Waverly Elem/Middle,School No. 51,4,21218,43,7,8,6,14,1,Primary,"3400 Ellerslie Avenue
+Baltimore, MD
+(39.3298657, -76.60371112)"
+Mergenthaler Vo Tech High,School No. 410,5,21218,43,7,8,6,14,1,Primary,"3500 Hillen Road
+Baltimore, MD
+(39.33280021, -76.58900646)"
+Mergenthaler Vo Tech High,School No. 410,6,21218,43,7,8,6,14,1,Primary,"3500 Hillen Road
+Baltimore, MD
+(39.33280021, -76.58900646)"
+Montebello Elementary,School No. 44,7,21218,43,7,8,6,14,1,Primary,"2040 32nd Street
+Baltimore, MD
+(39.32740179, -76.58669088)"
+Mason Hall,Mason Hall,8,21218,43,7,8,6,14,1,Primary,"1640 44 Gorsuch Avenue
+Baltimore, MD
+(39.32137159, -76.59472607)"
+Coldstream Park Elem/Middle,School No. 31,9,21218,43,7,8,6,14,1,Primary,"1400 Exeter Hall Avenue
+Baltimore, MD
+(39.32037617, -76.60151875)"
+Engine House No. 31,Engine House No. 31,10,21218,43,7,8,6,14,1,Primary,"3123 Greenmount Avenue
+Baltimore, MD
+(39.32682954, -76.60930482)"
+Coldstream Park Elem/Middle,School No. 31,11,21218,43,7,8,6,14,1,Primary,"1400 Exeter Hall Avenue
+Baltimore, MD
+(39.32037617, -76.60151875)"
+Mason Hall,Mason Hall,12,21218,45,7,8,6,14,1,Primary,"1640 44 Gorsuch Avenue
+Baltimore, MD
+(39.32137159, -76.59472607)"
+Cecil Elementary,School No. 7,13,21218,45,7,8,6,12,1,Secondary,"2000 Cecil Avenue
+Baltimore, MD
+(39.31306848, -76.60535515)"
+Cecil Elementary,School No. 7,14,21218,43,7,8,6,12,1,Secondary,"2000 Cecil Avenue
+Baltimore, MD
+(39.31306848, -76.60535515)"
+Oliver Multi-Purpose Center,Oliver Multi-Purpose Cente,15,21218,45,7,8,6,12,1,Secondary,"1400 Federal Street
+Baltimore, MD
+(39.30841385, -76.59977904)"
+Johnston Square Elementary,School No. 16,1,21202,44,7,8,6,12,1,Primary,"1101 Valley Street
+Baltimore, MD
+(39.30284843, -76.60486743)"
+Waters Tower,Waters Tower,2,21205,44,7,8,6,12,1,Primary,"1400 Madison Street
+Baltimore, MD
+(39.29932862, -76.5991928)"
+Latrobe Homes,Latrobe Homes,3,21202,40,7,8,6,12,1,Primary,"900 Madison Street
+Baltimore, MD
+(39.29909348, -76.60508149)"
+Johnston Square Elementary,School No. 16,4,21202,40,7,8,6,12,1,Primary,"1101 Valley Street
+Baltimore, MD
+(39.30284843, -76.60486743)"
+Chase House,Chase House,1,21201,40,7,8,6,12,1,Primary,"1027 Cathedral Street
+Baltimore, MD
+(39.3019096, -76.61780608)"
+Chase House,Chase House,2,21201,40,7,8,6,11,1,Primary,"1027 Cathedral Street
+Baltimore, MD
+(39.3019096, -76.61780608)"
+Brown Memorial Church,Brown Memorial Church,3,21217,40,7,8,6,11,1,Primary,"1316 Park Avenue
+Baltimore, MD
+(39.30615208, -76.62329881)"
+McCulloh Homes,McCulloh Homes,4,21217,44,7,8,6,11,1,Primary,"501 Dolphin Street
+Baltimore, MD
+(39.30069202, -76.62799961)"
+Chase House,Chase House,5,21201,44,7,8,6,11,1,Primary,"1027 Cathedral Street
+Baltimore, MD
+(39.3019096, -76.61780608)"
+Central Library,Central Library,6,21201,44,7,8,6,11,1,Primary,"400 Cathedral Street
+Baltimore, MD
+(39.29406859, -76.61691804)"
+Waxter Center,Waxter Center,7,21202,40,7,8,6,11,1,Primary,"1000 Cathedral Street
+Baltimore, MD
+(39.30088636, -76.61767713)"
+1st English Lutheran Church,1st English Lutheran Churc,1,21218,43,3,8,6,14,1,Primary,"3807 Charles Street
+Baltimore, MD
+(39.33516208, -76.61801574)"
+1st English Lutheran Church,1st English Lutheran Churc,2,21218,43,7,8,6,14,1,Primary,"3807 Charles Street
+Baltimore, MD
+(39.33516208, -76.61801574)"
+The Greenmount School,The Greenmount School,3,21211,40,7,8,6,14,0,Secondary,"501 30th Street
+Baltimore, MD
+(39.32212539, -76.62474148)"
+Library No. 9,Library No. 9,4,21218,43,7,8,6,14,1,Primary,"400 33rd Street
+Baltimore, MD
+(39.32849942, -76.61106235)"
+Library No. 9,Library No. 9,5,21218,43,7,8,6,14,1,Primary,"400 33rd Street
+Baltimore, MD
+(39.32849942, -76.61106235)"
+Barclay Elem/Middle,School No. 54,6,21218,40,7,8,6,14,1,Primary,"2900 Barclay Street
+Baltimore, MD
+(39.32346571, -76.61123455)"
+Barclay Elem/Middle,School No. 54,7,21218,43,7,8,6,12,1,Primary,"2900 Barclay Street
+Baltimore, MD
+(39.32346571, -76.61123455)"
+Margaret Brent Elementary,School No. 53,8,21218,40,7,8,6,12,1,Primary,"100 26th Street
+Baltimore, MD
+(39.31938468, -76.61847208)"
+The Wyman House,The Wyman House,9,21218,40,7,8,6,7,1,Primary,"123 29th Street
+Baltimore, MD
+(39.32301591, -76.61942981)"
+Brentwood Apartments,Brentwood Apartments,10,21218,40,7,8,6,12,1,Primary,"401 25th Street
+Baltimore, MD
+(39.31797262, -76.61110357)"
+The West Twenty Apartments,The West Twenty Apartments,11,21218,40,7,8,6,12,1,Secondary,"11 20th Street
+Baltimore, MD
+(39.31212447, -76.61704525)"
+Dallas Nicholas Elementary,School No. 39,12,21218,40,7,8,6,12,1,Primary,"201 21st Street
+Baltimore, MD
+(39.3132602, -76.61391703)"
+Keswick Multi-Care Center,Keswick Multi-Care Center,1,21211,40,3,8,6,14,1,Primary,"700 40th Street
+Baltimore, MD
+(39.33729432, -76.62844549)"
+Engine House No. 21,Engine House No. 21,2,21211,40,3,8,6,14,1,Primary,"3724 Roland Avenue
+Baltimore, MD
+(39.33355431, -76.63293647)"
+Robert Poole Middle,School No. 56,3,21211,40,3,8,6,7,1,Primary,"1300 36th Street
+Baltimore, MD
+(39.33057463, -76.63690868)"
+Medfield Heights Elementary,School No. 249,4,21211,40,3,8,6,7,1,Secondary,"4300 Buchanan Avenue
+Baltimore, MD
+(39.34033263, -76.6419854)"
+Shiloh United Church Apostolic,Shiloh United Church Apostolic,5,21211,40,3,8,6,7,1,Secondary,"2000 Druid Park Drive
+Baltimore, MD
+(39.33364875, -76.64896697)"
+Engine House No. 52,Engine House No. 52,6,21217,40,7,8,6,7,1,Primary,"3525 Woodbrook Avenue
+Baltimore, MD
+(39.31880926, -76.65139482)"
+Westside Elementary,School No. 24,7,21217,40,7,8,6,7,1,Primary,"2235 Fulton Avenue
+Baltimore, MD
+(39.3143115, -76.64498059)"
+Beth Am In Town Synagogue,Beth Am In Town Synagogue,8,21217,40,7,8,6,11,1,Primary,"2501 Eutaw Place
+Baltimore, MD
+(39.31443108, -76.63771238)"
+Lakeview Tower Apartments,Lakeview Tower Apartments,9,21217,40,7,8,6,11,1,Primary,"727 Druid Park Lake
+Baltimore, MD
+(39.31656653, -76.63256509)"
+John Eager Howard Elementary,School No. 61,10,21217,40,7,8,6,11,1,Primary,"2011 Linden Avenue
+Baltimore, MD
+(39.31095098, -76.63264035)"
+Hampden Elementary,School No. 55,11,21211,40,7,8,6,7,1,Secondary,"3608 Chestnut Avenue
+Baltimore, MD
+(39.33175054, -76.62953253)"
+Hampden Elementary,School No. 55,12,21211,40,3,8,6,14,1,Secondary,"3608 Chestnut Avenue
+Baltimore, MD
+(39.33175054, -76.62953253)"
+Mt. Royal Recreation Center,Mt. Royal Recreation Center,1,21217,40,7,8,6,11,1,Secondary,"120 Mosher Street
+Baltimore, MD
+(39.30881784, -76.62359047)"
+Mt. Royal Recreation Center,Mt. Royal Recreation Center,2,21217,44,7,8,6,11,1,Secondary,"120 Mosher Street
+Baltimore, MD
+(39.30881784, -76.62359047)"
+Engine House No. 13,Engine House No. 13,3,21217,44,7,8,6,11,1,Primary,"405 McMechen Street
+Baltimore, MD
+(39.30513659, -76.63028808)"
+Eutaw Marshburn Elementary,School No. 11,4,21217,44,7,8,6,11,1,Primary,"1624 Eutaw Place
+Baltimore, MD
+(39.30639368, -76.629513)"
+Library No. 17,Library No. 17,5,21217,44,7,8,6,11,1,Primary,"1531 North Avenue
+Baltimore, MD
+(39.31002253, -76.64155394)"
+George McMechen Middle/Sr.,School No. 177,1,21215,41,7,8,6,6,1,Primary,"4411 Garrison Boulevard
+Baltimore, MD
+(39.33675172, -76.68463318)"
+Forest Park Senior High,School No. 406,2,21207,41,7,8,6,6,1,Primary,"3701 Eldorado Avenue
+Baltimore, MD
+(39.33170534, -76.69039368)"
+Callaway Elementary,School No. 251,3,21215,41,7,8,6,6,1,Primary,"3701 Fernhill Avenue
+Baltimore, MD
+(39.33684357, -76.67766942)"
+Ashburton Elem/Middle,School No. 58,4,21215,40,7,8,6,6,1,Primary,"3935 Hilton Road
+Baltimore, MD
+(39.33108886, -76.66790402)"
+Ashburton Elem/Middle,School No. 58,5,21215,40,7,8,6,7,1,Primary,"3935 Hilton Road
+Baltimore, MD
+(39.33108886, -76.66790402)"
+Gwyns Falls Elementary,School No. 60,6,21216,40,7,8,6,7,1,Primary,"2700 Gwynns Falls
+Baltimore, MD
+(39.31487542, -76.66260987)"
+Hilton Elementary,School No. 21,7,21216,41,7,8,6,7,1,Primary,"3301 Carlisle Avenue
+Baltimore, MD
+(39.31935491, -76.67300961)"
+Liberty Grace Church of God,Liberty Grace Church of Go,8,21215,41,7,8,6,6,1,Primary,"3400 Copely Road
+Baltimore, MD
+(39.32608696, -76.67772623)"
+Liberty Elementary,School No. 64,9,21207,41,7,8,6,6,1,Primary,"3901 Maine Avenue
+Baltimore, MD
+(39.32599971, -76.68277395)"
+Windsor Hills Elementary,School No. 87,10,21216,41,7,8,6,6,1,Secondary,"4001 Alto Road
+Baltimore, MD
+(39.31698158, -76.68264859)"
+Edgewood Elementary,School No. 67,11,21216,41,7,8,6,7,1,Primary,"1900 Edgewood Street
+Baltimore, MD
+(39.30887663, -76.67600138)"
+Library No. 8,Library No. 8,12,21216,41,7,8,6,7,1,Primary,"3203 North Avenue
+Baltimore, MD
+(39.30884945, -76.67116797)"
+Library No. 8,Library No. 8,13,21216,40,7,8,6,7,1,Primary,"3203 North Avenue
+Baltimore, MD
+(39.30884945, -76.67116797)"
+Gwyns Falls Elementary,School No. 60,14,21216,40,7,8,6,7,1,Primary,"2700 Gwynns Falls
+Baltimore, MD
+(39.31487542, -76.66260987)"
+Easterwood Park Recreation,Easterwood Park Recreation,15,21216,40,7,8,6,7,1,Primary,"1530 Bentalou Street
+Baltimore, MD
+(39.30514959, -76.65394743)"
+Carver Voc. Tech High,School No. 454,16,21216,40,7,8,6,7,1,Secondary,"2201 Presstmant Street
+Baltimore, MD
+(39.30498671, -76.65244894)"
+Matthew Henson Elementary,School No. 29,17,21216,40,7,8,6,7,1,Primary,"1600 Payson Street
+Baltimore, MD
+(39.30656296, -76.64981765)"
+Gilmore Elementary,School No. 107,18,21217,40,7,8,6,7,1,Secondary,"1311 Gilmor Street
+Baltimore, MD
+(39.30346874, -76.6431092)"
+George G. Kelson Elem/Middle,School No. 157,19,21217,44,7,8,6,7,1,Secondary,"701 Gold Street
+Baltimore, MD
+(39.30658081, -76.64048562)"
+Robert W. Coleman Elementary,School No. 142,20,21216,40,7,8,6,7,1,Primary,"2400 Windsor Avenue
+Baltimore, MD
+(39.31237377, -76.65582223)"
+Engine House No. 52,Engine House No. 52,21,21217,40,7,8,6,7,1,Primary,"3525 Woodbrook Avenue
+Baltimore, MD
+(39.31880926, -76.65139482)"
+Greenhill Housing,Greenhill Housing,22,21215,40,7,8,6,7,1,Secondary,"2501 Violet Avenue
+Baltimore, MD
+(39.33120935, -76.65838751)"
+Martin Luther King Elementary,School No. 254,23,21211,40,7,8,6,6,1,Primary,"3750 Greenspring Avenue
+Baltimore, MD
+(39.33349607, -76.65604334)"
+Towanda Recreation Center,Towanda Recreation Center,24,21215,40,7,8,6,6,1,Secondary,"4100 Towanda Avenue
+Baltimore, MD
+(39.33475851, -76.66626011)"
+Towanda Recreation Center,Towanda Recreation Center,25,21215,40,7,8,6,6,1,Secondary,"4100 Towanda Avenue
+Baltimore, MD
+(39.33475851, -76.66626011)"
+William Pinderhughes Elementary,School No. 28,1,21217,44,7,8,6,11,1,Primary,"1200 Fremont Avenue
+Baltimore, MD
+(39.30306054, -76.6367521)"
+Harlem Park Elementary,School No. 35,2,21217,44,7,8,6,11,1,Secondary,"801 Stricker Street
+Baltimore, MD
+(39.29844461, -76.64140515)"
+Harlem Park Elementary,School No. 35,3,21217,44,7,8,6,11,1,Secondary,"801 Stricker Street
+Baltimore, MD
+(39.29844461, -76.64140515)"
+Harriet Tubman Elementary,School No. 138,4,21217,44,7,8,6,9,1,Secondary,"1807 Harlem Avenue
+Baltimore, MD
+(39.29633798, -76.64633485)"
+Sandtown/Winchester Commun,Sandtown/Winchester Commun,5,21217,44,7,8,6,9,0,Secondary,"1114 Mount Street
+Baltimore, MD
+(39.30128308, -76.64461428)"
+Calverton Middle,School No. 75,6,21216,40,7,8,6,9,1,Secondary,"1100 Whitmore Avenue
+Baltimore, MD
+(39.3005313, -76.65828093)"
+Empowerment Academy,School No. 262,7,21216,44,7,8,6,9,1,Primary,"851 Braddish Avenue
+Baltimore, MD
+(39.29739362, -76.65944038)"
+Empowerment Academy,School No. 262,8,21216,44,7,8,6,9,1,Primary,"851 Braddish Avenue
+Baltimore, MD
+(39.29739362, -76.65944038)"
+Alexander Hamilton Elementary,School No. 145,9,21216,40,7,8,6,9,1,Primary,"800 Poplar Grove Street
+Baltimore, MD
+(39.297152, -76.6651765)"
+Calverton Middle,School No. 75,10,21216,40,7,8,6,9,1,Secondary,"1100 Whitmore Avenue
+Baltimore, MD
+(39.3005313, -76.65828093)"
+Rosemont Elementary,School No. 63,11,21216,40,7,8,6,9,1,Secondary,"2777 Presstman Street
+Baltimore, MD
+(39.30459596, -76.66315706)"
+Belmont Elementary,School No. 217,12,21216,40,7,8,6,9,1,Secondary,"1406 Ellamont Street
+Baltimore, MD
+(39.30316689, -76.67070226)"
+St. Bernadine's Hall,St. Bernadine's Hall,13,21229,41,7,8,6,8,1,Secondary,"614 Mt Holly Street
+Baltimore, MD
+(39.29442165, -76.67992084)"
+Lynhurst Elementary,School No. 88,14,21229,41,7,8,6,8,1,Primary,"621 Wildwood Parkway
+Baltimore, MD
+(39.29443358, -76.68377429)"
+McCulloh Homes,McCulloh Homes,1,21217,44,7,8,6,11,1,Primary,"501 Dolphin Street
+Baltimore, MD
+(39.30069202, -76.62799961)"
+Providence Insp. Baptist Church,Providence Insp. Baptist Church,2,21201,44,7,8,6,11,1,Secondary,"850 Edmondson Avenue
+Baltimore, MD
+(39.29617895, -76.63242833)"
+Greater Model Community Center,Greater Model Community  C,1,21223,44,7,8,6,11,1,Primary,"1051 Saratoga Street
+Baltimore, MD
+(39.29234979, -76.63475576)"
+James McHenry,School No. 10,2,21223,44,7,8,6,9,1,Secondary,"31 Schroeder Street
+Baltimore, MD
+(39.2877702, -76.63361908)"
+Franklin Square Elementary,School No. 95,1,21223,44,7,8,6,9,1,Primary,"1400 Lexington
+Baltimore, MD
+(39.29088414, -76.63971747)"
+Stewart Hill Elem/Middle,School No. 4,2,21223,44,7,8,6,9,1,Primary,"30 Gilmor Street
+Baltimore, MD
+(39.287192, -76.64241987)"
+Bantalou Elementary,School No. 150,1,21223,44,7,8,6,9,1,Secondary,"220 Bentalou
+Baltimore, MD
+(39.29113181, -76.65313618)"
+Stewart Hill Elem/Middle,School No. 4,2,21223,44,7,8,6,9,1,Primary,"30 Gilmor Street
+Baltimore, MD
+(39.287192, -76.64241987)"
+Frederick Elementary,School No. 260,3,21223,44,7,8,6,9,1,Primary,"2501 Frederick Avenue
+Baltimore, MD
+(39.28330426, -76.65588796)"
+Voting Machine Warehouse,Voting Machine Warehouse,4,21223,44,7,8,6,9,1,Primary,"301 Franklintown
+Baltimore, MD
+(39.29231039, -76.66173199)"
+Hilton Recreation Center,Hilton Recreation Center,5,21229,44,7,8,6,8,1,Secondary,"2950 Phelps Lane
+Baltimore, MD
+(39.28880129, -76.66931078)"
+Mary E. Rodman Recreation Cntr,Mary E. Rodman Recreation,6,21229,41,7,8,6,8,1,Secondary,"3600 Mulberry
+Baltimore, MD
+(39.29188527, -76.67730009)"
+Sarah M. Roach Elementary,School No. 73,7,21229,44,7,8,6,8,1,Primary,"3434 Old Frederick Road
+Baltimore, MD
+(39.28228472, -76.67429557)"
+Sarah M. Roach Elementary,School No. 73,8,21229,44,7,8,6,8,1,Primary,"3434 Old Frederick Road
+Baltimore, MD
+(39.28228472, -76.67429557)"
+Acadamy of  Success,Acadamy of  Success,9,21223,44,7,8,6,8,0,Primary,"525 Hurley Avenue
+Baltimore, MD
+(39.27774515, -76.66306546)"
+Frederick Elementary,School No. 260,10,21223,44,7,8,6,9,1,Primary,"2501 Frederick Avenue
+Baltimore, MD
+(39.28330426, -76.65588796)"
+Samuel Morse Elementary,School No. 98,11,21223,44,7,8,6,9,1,Secondary,"424 Pulaski Street
+Baltimore, MD
+(39.28231914, -76.64987712)"
+George Washington Elementary,School No. 22,1,21230,46,3,8,6,11,1,Secondary,"800 Scott Street
+Baltimore, MD
+(39.28117246, -76.62883435)"
+George Washington Elementary,School No. 22,2,21230,46,7,8,6,11,1,Secondary,"800 Scott Street
+Baltimore, MD
+(39.28117246, -76.62883435)"
+Charles Carroll Barnister Elem,School No. 34,3,21230,44,3,8,6,9,1,Primary,"1327 Washington Blvd
+Baltimore, MD
+(39.28015534, -76.63586504)"
+George Washington Elementary,School No. 22,4,21230,46,3,8,6,10,1,Secondary,"800 Scott Street
+Baltimore, MD
+(39.28117246, -76.62883435)"
+Engine House No. 2,Engine House No. 2,2,21230,46,3,8,6,11,1,Primary,"800 Light Street
+Baltimore, MD
+(39.27995079, -76.61279345)"
+South Baltimore Learning Center,South Baltimore Learning Center,1,21230,46,3,8,6,10,1,Primary,"28 Ostend Street
+Baltimore, MD
+(39.27486078, -76.61335474)"
+Solo Gibbs Recreation Center,Solo Gibbs Recreation Cent,2,21230,46,3,8,6,10,1,Secondary,"1044 Leadenhall Street
+Baltimore, MD
+(39.27753099, -76.61768192)"
+Thomas Johnson,School No. 84,3,21230,46,3,8,6,10,1,Primary,"100 Heath Street
+Baltimore, MD
+(39.27070417, -76.61155768)"
+Federal Hill Preparatory,School No. 45,1,21230,46,3,8,6,10,1,Secondary,"1040 William Street
+Baltimore, MD
+(39.27754559, -76.61084925)"
+Holy Cross Church Hall,Holy Cross Church Hall,2,21230,46,3,8,6,10,1,Secondary,"108 West Street
+Baltimore, MD
+(39.27617101, -76.61136854)"
+Digital Harbor High School,Digital Harbor High School,3,21230,46,3,8,6,10,1,Primary,"1000 Covington Street
+Baltimore, MD
+(39.27812822, -76.60713716)"
+Thomas Johnson,School No. 84,4,21230,46,3,8,6,10,1,Primary,"100 Heath Street
+Baltimore, MD
+(39.27070417, -76.61155768)"
+Francis Scott Key Elem/Middle,School No. 76,5,21230,46,3,8,6,10,1,Primary,"1425 Fort Avenue
+Baltimore, MD
+(39.26912562, -76.59437846)"
+Beechfield Elementary,School No. 246,1,21229,44,7,8,6,8,1,Primary,"301 Beechfield Avenu
+Baltimore, MD
+(39.28091541, -76.69386377)"
+Beechfield Elementary,School No. 246,2,21229,44,7,8,6,8,1,Primary,"301 Beechfield Avenu
+Baltimore, MD
+(39.28091541, -76.69386377)"
+Violetville Elem/Middle,School No. 226,3,21229,44,3,8,6,8,1,Primary,"1207 Pine Heights Avenu
+Baltimore, MD
+(39.26765042, -76.67430773)"
+Morell Park ElEm/Middle,School No. 220,4,21230,44,3,8,6,10,1,Primary,"2601 Tolley Street
+Baltimore, MD
+(39.30045048, -76.6607045)"
+Lakeland Recreation Center,Lakeland Recreation Center,5,21230,46,2,8,6,10,1,Secondary,"2921 Stranden Road
+Baltimore, MD
+(39.25416602, -76.64517705)"
+Westport Elem/Middle,School No. 225,6,21230,46,2,8,6,10,1,Secondary,"2401 Nevada Street
+Baltimore, MD
+(39.26273532, -76.63781863)"
+Engine House No. 58,Engine House No. 58,7,21230,46,2,8,6,10,1,Secondary,"2425 1 2 Annapolis Road
+Baltimore, MD
+(39.26103236, -76.63506717)"
+Arundel Elem/Middle,School No. 164,8,21225,46,2,8,6,10,1,Secondary,"2400 Round Road
+Baltimore, MD
+(39.25287578, -76.62691141)"
+Pattapsco Elem/Middle,School No. 163,9,21225,46,2,8,6,10,1,Primary,"844 Roundview Road
+Baltimore, MD
+(39.2465531, -76.62269407)"
+Southside Academy,School No. 181,10,21225,46,2,8,6,10,1,Secondary,"2700 Seamon Avenue
+Baltimore, MD
+(39.25364764, -76.62036635)"
+Maree Garett Farring Elemen,School No. 203,11,21215,46,2,8,6,10,1,Secondary,"300 Pontiac Avenue
+Baltimore, MD
+(39.23676631, -76.60749555)"
+St. Rose of Lima Church,St. Rose of Lima Church,12,21225,46,2,8,6,10,1,Secondary,"410 Jeffrey Street
+Baltimore, MD
+(39.23419397, -76.60682709)"
+Brooklyn Recreation Center,Brooklyn Recreation Center,13,21225,46,2,8,6,10,1,Secondary,"3560 Third Street
+Baltimore, MD
+(39.238575, -76.60669958)"
+Brooklyn Homes,Brooklyn Homes,14,21225,46,2,8,6,10,1,Primary,"4140 Tenth Street
+Baltimore, MD
+(39.22914774, -76.59857293)"
+Benjamin Franklin Middle,School No. 239,15,21225,46,2,8,6,10,1,Secondary,"1201 Cambria Street
+Baltimore, MD
+(39.23283708, -76.59338262)"
+Curtis Bay Recreation Center,Curtis Bay Recreation Cent,16,21226,46,2,8,6,10,1,Secondary,"1620 Filbert Street
+Baltimore, MD
+(39.22541593, -76.58730207)"
+St. Helena Community Assoc.,St. Helena Community Assoc,1,21222,46,2,8,6,1,0,Secondary,"6509 Colgate Avenue
+Baltimore, MD
+(39.26059219, -76.5323291)"
+Graceland Park Elementary,School No. 240,2,21224,46,2,8,6,1,1,Primary,"6300 O Donnell Street
+Baltimore, MD
+(39.28163428, -76.54049476)"
+Graceland Park Elementary,School No. 240,3,21224,46,3,8,6,1,1,Primary,"6300 O Donnell Street
+Baltimore, MD
+(39.28163428, -76.54049476)"
+Patterson High,School No. 405,4,21224,46,3,8,6,2,1,Primary,"100 Kane Street
+Baltimore, MD
+(39.29361486, -76.53484841)"
+Joseph Lee Field House,Joseph Lee Field House,5,21224,46,3,8,6,2,1,Secondary,"5900 Pratt Street
+Baltimore, MD
+(39.29200707, -76.54493886)"
+John Ruhran Elemtary,School No. 228,6,21224,46,3,8,6,1,1,Secondary,"701 Rappolla Street
+Baltimore, MD
+(39.28512096, -76.55274219)"
+St. Nicholas' Church Hall,St. Nicholas' Church Hall,7,21224,46,3,8,6,2,1,Primary,"520 Ponca Street
+Baltimore, MD
+(39.28648454, -76.55503173)"
+Canton Baptist Church,Canton Baptist Church,8,21224,46,3,8,6,1,1,Secondary,"3302 Toone Street
+Baltimore, MD
+(39.2784852, -76.56894568)"
+Canton Middle,School No. 230,9,21224,46,3,8,6,1,1,Secondary,"801 Highland Avenue
+Baltimore, MD
+(39.28349265, -76.56871645)"
+Highlandtown Elementary,School No. 215,10,21224,46,3,8,6,1,0,Primary,"3223 Pratt Street
+Baltimore, MD
+(39.29004345, -76.57090264)"
+John Booth Senior Center,John Booth Senior Center,11,21224,46,3,8,6,2,0,Secondary,"229 1 2 Eaton Street
+Baltimore, MD
+(39.28954986, -76.56536687)"
+Engine House No. 51,Engine House No. 51,12,21224,46,7,8,6,13,1,Primary,"646 Highland Avenue
+Baltimore, MD
+(39.29872595, -76.56993434)"
+Carroll Cook Recreation Center,Carroll Cook Recreation Ce,13,21205,45,3,8,6,13,1,Secondary,"5061 Eager Street
+Baltimore, MD
+(39.30517129, -76.55313049)"
+Community Building,Community Building,14,21205,46,3,8,6,2,1,Secondary,"931 Armistead Way
+Baltimore, MD
+(39.30352421, -76.54687967)"
+Moravia Park Pre-K-8 Campus,School No. 105,15,21206,45,2,8,6,2,1,Primary,"6001 Frankford Avenue
+Baltimore, MD
+(39.3182394, -76.54008151)"
+Thurgood Marshall Middle,School No. 170,16,21206,45,2,8,6,2,1,Primary,"5001 Sinclair Lane
+Baltimore, MD
+(39.32203742, -76.54593868)"
+Claremont Homes,Claremont Homes,17,21213,45,2,8,6,13,1,Secondary,"4320 Clareway
+Baltimore, MD
+(39.31418075, -76.55945456)"
+Sinclair Lane Elementary,School No. 248,18,21213,45,2,8,6,13,1,Primary,"3880 Sinclair Lane
+Baltimore, MD
+(39.31459698, -76.56108896)"
+Library No. 29,Library No. 29,19,21213,45,3,8,6,13,1,Primary,"3801 Erdman Avenue
+Baltimore, MD
+(39.31572354, -76.56912102)"
+Brehms Lane Elementary,School No. 231,20,21213,45,3,8,6,13,1,Primary,"3536 Brehms Lane
+Baltimore, MD
+(39.3210807, -76.56581891)"
+Brehms Lane Elementary,School No. 231,21,21213,45,2,8,6,13,1,Primary,"3536 Brehms Lane
+Baltimore, MD
+(39.3210807, -76.56581891)"
+Jerusalem Evangelical Luth,Jerusalem Evangelical Luth,22,21206,45,2,8,6,13,1,Primary,"4605 Belair Road
+Baltimore, MD
+(39.33136062, -76.56112438)"
+Jerusalem Evangelical Luth,Jerusalem Evangelical Luth,23,21206,45,2,8,6,2,1,Primary,"4605 Belair Road
+Baltimore, MD
+(39.33136062, -76.56112438)"
+Northeast Middle School,Northeast Middle School No,24,21206,45,2,8,6,2,1,Primary,"5001 Moravia Road
+Baltimore, MD
+(39.32469117, -76.55079719)"
+Furley Elementary,School No. 206,25,21206,45,2,8,6,2,1,Primary,"4633 Furley Avenue
+Baltimore, MD
+(39.32837529, -76.55176889)"
+Gardenville Elementary,School No. 211,26,21206,45,2,8,6,2,1,Primary,"5300 Belair Road
+Baltimore, MD
+(39.3377725, -76.55231061)"
+Hazelwood Elem/Middle,School No. 210,27,21206,45,2,8,6,2,1,Primary,"4517 Hazelwood Avenue
+Baltimore, MD
+(39.33894371, -76.53997352)"
+Hazelwood Elm/Middle,School No. 210,28,21206,45,2,8,6,2,1,Primary,"4517 Hazelwood Avenue
+Baltimore, MD
+(39.33894371, -76.53997352)"
+Hazelwood Elem/Middle,School No. 210,29,21206,45,2,8,6,2,1,Primary,"4517 Hazelwood Avenue
+Baltimore, MD
+(39.33894371, -76.53997352)"
+Engine House No. 54,Engine House No. 54,30,21206,45,2,8,6,2,1,Primary,"5821 Belair Road
+Baltimore, MD
+(39.34438061, -76.54251423)"
+Engine House No. 54,Engine House No. 54,31,21206,45,3,8,6,2,1,Primary,"5821 Belair Road
+Baltimore, MD
+(39.34438061, -76.54251423)"
+Jerusalem Evangelical Luth,Jerusalem Evangelical Luth,1,21206,45,2,8,6,3,1,Primary,"4605 Belair Road
+Baltimore, MD
+(39.33136062, -76.56112438)"
+Ray of Hope Baptist Church,Ray of Hope Baptist Church,2,21214,45,3,8,6,3,1,Primary,"3000 Parkside Drive
+Baltimore, MD
+(39.33706509, -76.57465705)"
+Engine House No. 42,Engine House No. 42,3,21214,45,3,8,6,3,1,Primary,"4522 Harford Road
+Baltimore, MD
+(39.34126171, -76.5713552)"
+Harford Center for Senior,Harford Center for Senior,4,21214,45,3,8,6,3,1,Primary,"4920 Harford Road
+Baltimore, MD
+(39.34670651, -76.56631466)"
+Hamilton Middle,School No. 41,5,21214,45,3,8,6,3,1,Primary,"5609 Sefton Avenue
+Baltimore, MD
+(39.35041958, -76.55551325)"
+Gardenville Elementary,School No. 211,6,21206,45,2,8,6,2,1,Primary,"5300 Belair Road
+Baltimore, MD
+(39.3377725, -76.55231061)"
+Glenmount Elem/Middle,School No. 235,7,21214,45,2,8,6,2,1,Primary,"6211 Walther Avenue
+Baltimore, MD
+(39.35148857, -76.54291812)"
+Glenmount Elem/Middle,School No. 235,8,21214,45,2,8,6,2,1,Primary,"6211 Walther Avenue
+Baltimore, MD
+(39.35148857, -76.54291812)"
+Engine House No. 56,Engine House No. 56,9,21234,45,3,8,6,3,1,Primary,"6512 Harford Road
+Baltimore, MD
+(39.36177794, -76.55341006)"
+Overlea Methodist Church,Overlea Methodist Church,10,21206,45,3,8,6,2,1,Secondary,"3902 Overlea Avenue
+Baltimore, MD
+(39.35843109, -76.53338201)"
+Woodhome Recreation Center,Woodhome Recreation Center,11,21234,45,3,8,6,3,1,Primary,"7310 Moyer Avenue
+Baltimore, MD
+(39.36582852, -76.54066779)"
+North Harford Rec. Center,North Harford Recreation C,12,21239,43,3,8,6,3,1,Secondary,"6800 Hamlet Ave
+Baltimore, MD
+(39.36689024, -76.55886785)"
+Hamilton Elem/Middle,School No. 236,14,21214,43,3,8,6,3,1,Primary,"6101 Old Harford Road
+Baltimore, MD
+(39.35899345, -76.55816009)"
+W.E.B. DuBois High,School No. 418,15,21214,43,2,8,6,3,1,Primary,"2201 Pinewood Avenue
+Baltimore, MD
+(39.36629856, -76.57108553)"
+Garrett Heights Elementary,School No. 212,16,21214,43,3,8,6,3,1,Primary,"2800 Ailsa Avenue
+Baltimore, MD
+(39.34903864, -76.56975787)"
+Garrett Heights Elementary,School No. 212,17,21214,43,7,8,6,3,1,Primary,"2800 Ailsa Avenue
+Baltimore, MD
+(39.34903864, -76.56975787)"
+Engine House No. 42,Engine House No. 42,18,21214,43,7,8,6,3,1,Primary,"4522 Harford Road
+Baltimore, MD
+(39.34126171, -76.5713552)"
+Yorkwood Elementary,School No. 219,19,21239,43,2,8,6,4,1,Secondary,"5931 Yorkwood Road
+Baltimore, MD
+(39.36269189, -76.58394426)"
+Yorkwood Elementary,School No. 219,21,21239,43,2,8,6,4,1,Secondary,"5931 Yorkwood Road
+Baltimore, MD
+(39.36269189, -76.58394426)"
+Northwood Elementary,School No. 242,22,21239,43,2,8,6,3,1,Primary,"5201 Loch
+Baltimore, MD
+(39.35220723, -76.59026696)"
+Northwood Elementary,School No. 242,23,21239,43,3,8,6,3,1,Primary,"5201 Loch
+Baltimore, MD
+(39.35220723, -76.59026696)"
+Northwood Elementary,School No. 242,24,21239,43,7,8,6,3,1,Primary,"5201 Loch
+Baltimore, MD
+(39.35220723, -76.59026696)"
+Northwood Appold Community,Northwood Appold Community,25,21218,43,7,8,6,3,1,Primary,"4417 Loch
+Baltimore, MD
+(39.34527078, -76.5920073)"
+Library No. 10,Library No. 10,26,21218,43,7,8,6,3,1,Primary,"4420 Loch
+Baltimore, MD
+(39.34511861, -76.59247515)"
+Library No. 10,Library No. 10,27,21218,43,7,8,6,4,1,Primary,"4420 Loch
+Baltimore, MD
+(39.34511861, -76.59247515)"
+Chinquapin Middle,School No. 46,28,21212,43,7,8,6,4,1,Primary,"900 Woodbourne Avenue
+Baltimore, MD
+(39.35477029, -76.60227122)"
+Chinquapin Middle,School No. 46,29,21212,43,3,8,6,4,1,Primary,"900 Woodbourne Avenue
+Baltimore, MD
+(39.35477029, -76.60227122)"
+Northwood Elementary,School No. 242,30,21239,43,2,8,6,4,1,Primary,"5201 Loch
+Baltimore, MD
+(39.35220723, -76.59026696)"
+Leith Walk Elementary,School No. 245,31,21239,43,2,8,6,4,1,Secondary,"1235 Sherwood Avenue
+Baltimore, MD
+(39.36574867, -76.5919323)"
+Northside Baptist Church,Northside Baptist Church,32,21239,43,2,8,6,4,1,Primary,"1100 Northern
+Baltimore, MD
+(39.36613555, -76.59852156)"
+Govans Elementary,School No. 213,33,21212,43,2,8,6,4,1,Primary,"500 Campbell Lane
+Baltimore, MD
+(39.36036182, -76.60992259)"
+Deweese Recreation Center,Deweese Recreation Center,34,21212,43,3,8,6,4,1,Secondary,"5501 Ivanhoe Avenue
+Baltimore, MD
+(39.35632694, -76.60415303)"
+Winston Middle,School No. 209,35,21212,43,7,8,6,4,1,Secondary,"1101 Winston Avenue
+Baltimore, MD
+(39.34902435, -76.60031281)"
+Guilford Elem/Middle,School No. 214,36,21212,43,7,8,6,4,1,Primary,"4520 York Road
+Baltimore, MD
+(39.34405693, -76.60968188)"
+Guilford Elem/Middle,School No. 214,37,21212,43,3,8,6,4,1,Primary,"4520 York Road
+Baltimore, MD
+(39.34405693, -76.60968188)"
+Govans Manor,Govans Manor,38,21212,43,3,8,6,4,1,Primary,"5220 York Road
+Baltimore, MD
+(39.35334921, -76.60992259)"
+St. Marys Church of Govans,St. Marys Church of Govans,39,21212,43,3,8,6,4,1,Primary,"5502 York Road
+Baltimore, MD
+(39.35710842, -76.61001565)"
+Grace United Methodist Church,Grace United Methodist Chu,40,21210,43,3,8,6,4,1,Primary,"5407 Charles Street
+Baltimore, MD
+(39.36049532, -76.62465225)"
+Grace United Methodist Church,Grace United Methodist Chu,41,21210,43,3,8,6,4,1,Primary,"5407 Charles Street
+Baltimore, MD
+(39.36049532, -76.62465225)"
+First Christian Church,First Christian Church,42,21210,41,3,8,6,5,1,Primary,"5802 Roland Avenue
+Baltimore, MD
+(39.36810804, -76.6343466)"
+Western High,School No. 407,43,21209,41,3,8,6,6,1,Primary,"4600 Falls Road
+Baltimore, MD
+(39.34511618, -76.64094269)"
+Roland Park Elem/Middle,School No. 233,44,21210,41,3,8,6,6,1,Primary,"5207 Roland Avenue
+Baltimore, MD
+(39.35665363, -76.63462232)"
+St. David's Church,St. David's Church,45,21210,41,3,8,6,6,1,Primary,"4700 Roland Avenue
+Baltimore, MD
+(39.34759861, -76.63610024)"
+Bolton Street Synagogue,Bolton Street Synagogue,46,21210,40,3,8,6,14,1,Primary,"212 Coldspring
+Baltimore, MD
+(39.3450232, -76.62752426)"
+Medfield Heights Elementary,School No. 249,47,21211,40,3,8,6,7,1,Secondary,"4300 Buchanan Avenue
+Baltimore, MD
+(39.34033263, -76.6419854)"
+Ruscombe Garden Apartments,Ruscombe Garden Apartments,48,21209,41,3,8,6,6,1,Secondary,"4800 Yellowwood Avenue
+Baltimore, MD
+(39.34841495, -76.6581439)"
+Shrine of the Sacred Heart,Shrine of the Sacred Heart,49,21209,41,3,8,6,5,0,Primary,"5800 Smith Avenue
+Baltimore, MD
+(39.3678305, -76.65370273)"
+Elderslie United Methodist,Elderslie United Methodist,50,21209,41,3,8,6,5,1,Primary,"5601 Pimlico Road
+Baltimore, MD
+(39.35831835, -76.67103259)"
+Levindale Home,Levindale Home,51,21215,41,3,8,6,6,1,Primary,"2434 Belvedere Avenu
+Baltimore, MD
+(39.35347447, -76.66471813)"
+Pimilco Elementary,School No. 223,52,21215,40,7,8,6,6,1,Primary,"4849 Pimlico Road
+Baltimore, MD
+(39.34783562, -76.66869178)"
+Edgecombe Circle Elementary,School No. 62,53,21215,40,7,8,6,6,1,Secondary,"2835 Virginia Avenue
+Baltimore, MD
+(39.34498646, -76.66273013)"
+C.C. Jackson Recreation Center,C.C. Jackson Recreation Ce,54,21215,40,7,8,6,6,1,Primary,"4910 Park Heights Avenu
+Baltimore, MD
+(39.34656473, -76.67279608)"
+Langston Hughed Elementary,School No. 5,55,21215,41,7,8,6,6,1,Secondary,"5011 Arbutus Avenue
+Baltimore, MD
+(39.3425387, -76.68040723)"
+Bel-Park Tower,Bel-Park Tower,56,21215,41,7,8,6,6,1,Primary,"3800 Belvedere Avenu
+Baltimore, MD
+(39.34533659, -76.68151473)"
+Bel-Park Tower,Bel-Park Tower,57,21215,41,7,8,6,5,1,Primary,"3800 Belvedere Avenu
+Baltimore, MD
+(39.34533659, -76.68151473)"
+Pimlico Elementary,School No. 223,58,21215,41,7,8,6,6,1,Primary,"4849 Pimlico Road
+Baltimore, MD
+(39.34783562, -76.66869178)"
+Northwestern High,School No. 401,62,21215,41,3,8,6,5,1,Primary,"6900 Park Heights Avenu
+Baltimore, MD
+(39.36478153, -76.70291854)"
+Cross Country Elementary,School No. 247,63,21215,41,3,8,6,5,1,Primary,"6100 Cross Country Boul
+Baltimore, MD
+(39.36227031, -76.68662815)"
+Engine House No. 45,Engine House No. 45,64,21209,41,3,8,6,5,1,Primary,"4500 Cross Country Boul
+Baltimore, MD
+(39.36168654, -76.67712532)"
+Cross Country Elementary,School No. 247,65,21215,41,3,8,6,5,1,Primary,"6100 Cross Country Boul
+Baltimore, MD
+(39.36227031, -76.68662815)"
+Northwestern High,School No. 401,66,21215,41,3,8,6,5,1,Primary,"6900 Park Heights Avenu
+Baltimore, MD
+(39.36478153, -76.70291854)"
+Fallstaff Elementary,School No. 241,67,21215,41,3,8,6,5,1,Primary,"3801 Fallstaff Road
+Baltimore, MD
+(39.36304725, -76.70496643)"
+Fallstaff Elementary,School No. 241,1,21215,41,7,8,6,5,1,Primary,"3801 Fallstaff Road
+Baltimore, MD
+(39.36304725, -76.70496643)"
+Grove Park Elementary,School No. 224,2,21215,41,7,8,6,5,1,Primary,"5545 Kennison Avenue
+Baltimore, MD
+(39.34248456, -76.6993582)"
+George McMechen Middle/Sr.,School No. 177,3,21215,41,7,8,6,6,1,Primary,"4411 Garrison Boulevard
+Baltimore, MD
+(39.33675172, -76.68463318)"
+Calvin Rodwell Elementary,School No. 256,4,21207,41,7,8,6,5,1,Primary,"3501 Hillsdale Road
+Baltimore, MD
+(39.32995503, -76.69464184)"
+Forest Park Senior Center,Forest Park Senior Center,5,21207,41,7,8,6,5,1,Primary,"4801 Liberty Heights Av
+Baltimore, MD
+(39.33178364, -76.69716765)"
+Forest Park Senior Center,Forest Park Senior Center,6,21207,41,7,8,6,5,1,Primary,"4801 Liberty Heights Av
+Baltimore, MD
+(39.33178364, -76.69716765)"
+Calvin Rodwell Elementary,School No. 256,7,21207,41,7,8,6,5,1,Primary,"3501 Hillsdale Road
+Baltimore, MD
+(39.32995503, -76.69464184)"
+Liberty Recreation Center,Liberty Recreation Center,8,21207,41,7,8,6,6,1,Primary,"3901 Maine Avenue
+Baltimore, MD
+(39.32599971, -76.68277395)"
+Dickey Hill Elem/Middle,School No. 201,9,21207,41,7,8,6,8,1,Primary,"5025 Dickey Hill Road
+Baltimore, MD
+(39.31163555, -76.70310629)"
+St. William of York School,St. William of York School,10,21229,41,7,8,6,8,0,Primary,"600 Cooks Lane
+Baltimore, MD
+(39.29259796, -76.70209808)"
+Thomas Jefferson Elementary,School No. 232,11,21229,41,7,8,6,8,0,Primary,"605 Dryden Drive
+Baltimore, MD
+(39.29497087, -76.69921564)"
+Thomas Jefferson Elementary,School No. 232,12,21229,44,7,8,6,8,0,Primary,"605 Dryden Drive
+Baltimore, MD
+(39.29497087, -76.69921564)"
+Edmondson Westside High,School No. 400,13,21229,44,7,8,6,8,1,Primary,"501 Athol Avenue
+Baltimore, MD
+(39.29194591, -76.68919838)"
+Beechfield Elementary,School No. 246 Annex,14,21229,44,7,8,6,8,1,Primary,"301 Beechfield Avenu
+Baltimore, MD
+(39.28091541, -76.69386377)"
+West Baltimore Middle,School No. 80,15,21229,41,7,8,6,8,1,Primary,"201 Bend Road
+Baltimore, MD
+(39.28395995, -76.70751517)"
+Jewish Community Center,Jewish Community Center,59, , , , , , ,0,Primary,"5700 Park Heights Rd
+(39.35302403, -76.68541894)"
+Jewish Community Center,Jewish Community Center,60, , , , , , ,0,Primary,"5700 Park Heights Rd
+(39.35302403, -76.68541894)"
+Jewish Community Center,Jewish Community Center,61, , , , , , ,0,Primary,"5700 Park Heights Rd
+(39.35302403, -76.68541894)"
+Harbor Apartments,Harbor Apartments,1, , , , , , ,0,Primary,"600 Light Street
+(39.28099401, -76.61464943)"
+Professional Development Center,Professional Development Center,13, , , , , , ,0,Primary,"2500 Northern Pkwy
+(39.36680388, -76.56248743)"
+Leith Walk Elementary,School No. 245,20, , , , , , ,0,Secondary,"1235 Sherwood Avenue
+(39.36582804, -76.59190288)"
+Dunbar Day Care Center,Dunbar Day Care Center,1, , , , , , ,0,Secondary,"631 EDEN STREET
+(39.29786829, -76.59908917999999)"
+Lombard Middle,School No. 57,2,21231,16,7,8,6,12,1,Primary,"1601 Lombard St
+Baltimore, MD
+(39.286287, -76.601046)"
+St. Leo's Church Hall,St. Leo's Church Hall,3,21202,46,3,8,6,1,1,Primary,"225 Exeter Street
+Baltimore, MD
+(39.2873401, -76.60104623)"

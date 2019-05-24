@@ -15,7 +15,8 @@ Feb2018_MeetUp/Configuration/config.py
 ################################################################################
 *.DS_Store/
 *.DS_Store
-.ipynb_checkpoints/
+*.ipynb_checkpoints
+*/.ipynb_checkpoints/*
 *.pyc
 *.pyo
 __pycache__

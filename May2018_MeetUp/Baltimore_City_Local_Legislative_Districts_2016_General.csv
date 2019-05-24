@@ -1,0 +1,158 @@
+"Vote Type (FOR=1,AGAINST=2)","Candidate Name","Party","Office Name","Office District","Winner","Write-In?", CONC 012,CONC 005,CONC 004,CONC 008,CONC 013,CONC 010,CONC 006,CONC 002,CONC 011,CONC 007,CONC 009,CONC 001,CONC 003,CONC 014
+1,"Donald J. Trump",REP,President - Vice Pres,,,,441,2380,882,440,562,2085,481,1188,2578,804,292,3553,1902,1026
+1,"Hillary Clinton",DEM,President - Vice Pres,,Y,,9628,6675,9040,8456,8540,6655,8778,7431,11199,9873,8397,7783,8573,10019
+1,"Gary Johnson",LIB,President - Vice Pres,,,,150,243,188,130,112,189,133,155,630,156,69,724,264,241
+1,"Jill Stein",GRN,President - Vice Pres,,,,274,153,219,162,115,167,159,175,268,244,132,217,256,318
+1,"Paij Boring",REP,President - Vice Pres,,,Y,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+1,"Joann Breivogel",REP,President - Vice Pres,,,Y,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+1,"Jacqueline Gates",REP,President - Vice Pres,,,Y,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+1,"Stephen McCarthy",REP,President - Vice Pres,,,Y,0,0,1,0,1,0,0,0,1,0,0,0,1,0
+1,"Janet L. Reid",REP,President - Vice Pres,,,Y,0,0,0,0,0,0,1,0,0,0,0,0,0,0
+1,"Paul Adams",DEM,President - Vice Pres,,,Y,0,0,1,1,0,0,0,1,1,1,0,2,0,0
+1,"Cathy Johnson Pendleton",DEM,President - Vice Pres,,,Y,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+1,"Doug Terry",DEM,President - Vice Pres,,,Y,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+1,"Mary E. Thomas",DEM,President - Vice Pres,,,Y,0,0,0,0,0,0,0,0,0,0,1,0,0,0
+1,"William E. Bowhall, Jr.",OTH,President - Vice Pres,,,Y,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+1,"Theodis Brown, Sr",OTH,President - Vice Pres,,,Y,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+1,"Darrell L. Castle",OTH,President - Vice Pres,,,Y,1,0,0,1,0,0,0,0,3,3,1,1,0,0
+1,"Roque Rocky De La Fuente",OTH,President - Vice Pres,,,Y,0,0,1,0,0,0,0,0,0,0,0,0,0,0
+1,"Richard Baxter Edgell",OTH,President - Vice Pres,,,Y,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+1,"James Hedges",OTH,President - Vice Pres,,,Y,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+1,"Tom Hoefling",OTH,President - Vice Pres,,,Y,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+1,"Lynn Kahn",OTH,President - Vice Pres,,,Y,0,0,0,0,0,0,1,0,0,0,0,0,0,0
+1,"Mohammed Keita",OTH,President - Vice Pres,,,Y,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+1,"Gloria La Riva ",OTH,President - Vice Pres,,,Y,3,0,0,0,0,0,0,0,0,0,0,2,1,1
+1,"Ken Lash",OTH,President - Vice Pres,,,Y,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+1,"David Librace",OTH,President - Vice Pres,,,Y,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+1,"Star Locke",OTH,President - Vice Pres,,,Y,0,1,0,0,0,1,0,0,0,0,0,0,0,0
+1,"Michael A. Maturen",OTH,President - Vice Pres,,,Y,1,2,1,0,0,0,2,0,1,0,0,0,2,0
+1,"Evan McMullin",OTH,President - Vice Pres,,,Y,10,39,21,13,8,12,6,12,56,14,2,54,16,19
+1,"Kevin  M. Moreau",OTH,President - Vice Pres,,,Y,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+1,"Michael S Olkowski",OTH,President - Vice Pres,,,Y,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+1,"Marshall Schoenke",OTH,President - Vice Pres,,,Y,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+1,"Joe Schriner",OTH,President - Vice Pres,,,Y,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+1,"Coop Smith",OTH,President - Vice Pres,,,Y,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+1,"Michael L. Mike Smith",OTH,President - Vice Pres,,,Y,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+1,"Sistah Soldjah",OTH,President - Vice Pres,,,Y,0,0,0,0,0,0,0,0,1,0,0,0,0,0
+1,"Emidio Soltysik",OTH,President - Vice Pres,,,Y,0,1,0,0,0,0,0,0,0,0,0,0,0,0
+1,"J. J. Vogel-Walcutt",OTH,President - Vice Pres,,,Y,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+1,"Jerry White",OTH,President - Vice Pres,,,Y,0,0,0,0,0,0,0,0,0,1,0,0,0,0
+1,"Mitchell Williams",OTH,President - Vice Pres,,,Y,1,0,0,0,0,0,0,0,0,0,0,0,0,0
+1,"Demetra Jefferson Wysinger",OTH,President - Vice Pres,,,Y,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+1,"Shelia Bolar",UNF,President - Vice Pres,,,Y,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+1,"Michael David Boyles",UNF,President - Vice Pres,,,Y,0,0,1,0,0,0,0,0,0,0,0,0,0,0
+1,"Dana E. Brown",UNF,President - Vice Pres,,,Y,0,0,0,0,0,0,0,1,0,0,0,0,0,0
+1,"Robert Buchanan",UNF,President - Vice Pres,,,Y,0,0,0,0,1,0,0,0,0,0,0,0,0,0
+1,"Martin Carlisle",UNF,President - Vice Pres,,,Y,0,0,0,0,0,0,0,0,0,1,0,0,0,0
+1,"Richard Duncan",UNF,President - Vice Pres,,,Y,0,0,1,0,0,0,0,0,0,0,0,0,0,0
+1,"Ameer Flippin",UNF,President - Vice Pres,,,Y,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+1,"Cherunda Fox",UNF,President - Vice Pres,,,Y,1,0,0,0,0,0,0,0,0,0,0,0,0,0
+1,"Ben Hartnell",UNF,President - Vice Pres,,,Y,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+1,"Gerald Jennings, II",UNF,President - Vice Pres,,,Y,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+1,"Laurence Kotlikoff",UNF,President - Vice Pres,,,Y,1,0,0,0,0,0,0,0,0,0,0,1,0,1
+1,"Joseph A. Maldanado",UNF,President - Vice Pres,,,Y,1,0,0,0,0,0,0,0,0,0,0,0,0,0
+1,"Michael B. Puskar",UNF,President - Vice Pres,,,Y,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+1,"Maurice Symonette",UNF,President - Vice Pres,,,Y,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+1,"Kora Roberta Katz Vakil",UNF,President - Vice Pres,,,Y,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+1,"Anthony Tony J. Valdivia",UNF,President - Vice Pres,,,Y,0,0,0,0,0,0,0,0,0,0,0,1,0,0
+1,"Other Write-Ins",BOT,President - Vice Pres,,,Y,97,180,120,94,70,89,70,78,201,106,70,174,115,120
+1,"Kathy Szeliga",REP,U.S. Senator           ,,,,612,2099,1213,620,696,1989,691,1205,3560,977,444,4286,2088,1292
+1,"Chris Van Hollen",DEM,U.S. Senator           ,,Y,,8876,7156,8626,8058,8111,6601,8351,7268,10374,9371,7940,7355,8308,9313
+1,"Margaret Flowers",GRN,U.S. Senator           ,,,,865,304,459,390,340,401,394,363,736,602,345,598,601,939
+1,"Jeffrey Binkins",DEM,U.S. Senator           ,,,Y,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+1,"Bob Robinson",DEM,U.S. Senator           ,,,Y,1,0,0,0,0,0,0,0,1,0,0,0,0,0
+1,"Charles U. Smith",DEM,U.S. Senator           ,,,Y,2,0,1,0,3,1,2,0,1,0,0,0,1,0
+1,"Lih Young",DEM,U.S. Senator           ,,,Y,1,0,0,1,1,2,0,0,1,4,1,2,0,1
+1,"Greg Dorsey",UNF,U.S. Senator           ,,,Y,0,1,2,0,2,2,0,0,3,1,0,1,0,1
+1,"Ed Tinus",UNF,U.S. Senator           ,,,Y,3,0,0,1,0,0,0,1,1,0,0,4,2,2
+1,"Other Write-Ins",BOT,U.S. Senator           ,,,Y,24,20,22,21,19,19,14,23,16,25,20,10,18,24
+1,"Pat McDonough",REP,Rep in Congress,02,,,,,,,75,797,,785,,,,491,89,
+1,"C. A. Dutch Ruppersberger",DEM,Rep in Congress,02,Y,,,,,,990,4324,,6673,,,,916,574,
+1,"Kristin S. Kasprzak",LIB,Rep in Congress,02,,,,,,,33,264,,300,,,,94,33,
+1,"Other Write-Ins",BOT,Rep in Congress,02,,Y,,,,,12,28,,52,,,,4,3,
+1,"Mark Plaster",REP,Rep in Congress,03,,,,1940,846,,240,789,388,295,2773,576,,3596,1123,607
+1,"John Sarbanes",DEM,Rep in Congress,03,Y,,,4333,3263,,1312,1534,1398,567,4786,1703,,6551,3828,2782
+1,"Nnabu Eze",GRN,Rep in Congress,03,,,,180,161,,55,104,45,42,212,194,,397,298,179
+1,"Ann Dalrymple",DEM,Rep in Congress,03,,Y,,2,0,,1,1,0,0,0,0,,10,2,2
+1,"Other Write-Ins",BOT,Rep in Congress,03,,Y,,14,8,,10,3,1,1,7,5,,7,12,5
+1,"Corrogan R. Vaughn",REP,Rep in Congress,07,,,504,145,204,463,215,186,175,,582,192,304,,538,508
+1,"Elijah Cummings",DEM,Rep in Congress,07,Y,,9304,2834,5620,8371,6031,828,7275,,5879,8088,8235,,4154,6934
+1,"Myles B. Hoenig",GRN,Rep in Congress,07,,,571,70,165,279,139,50,201,,324,223,232,,223,502
+1,"William T. Newton",REP,Rep in Congress,07,,Y,2,0,0,1,2,0,1,,1,1,1,,0,0
+1,"Michael T. Pearson",REP,Rep in Congress,07,,Y,0,0,0,0,2,0,0,,1,0,0,,1,0
+1,"Other Write-Ins",BOT,Rep in Congress,07,,Y,22,15,18,20,11,4,22,,8,29,35,,5,11
+1,"Alan Walden",REP,Mayor                  ,,,,446,1521,897,402,451,1535,485,892,3093,656,219,3909,1645,957
+1,"Catherine E. Pugh",DEM,Mayor                  ,,Y,,5817,5920,6007,4913,5239,4882,5673,4801,8335,6121,4763,6128,5829,6385
+1,"Joshua Harris",GRN,Mayor                  ,,,,1674,724,1010,567,536,683,646,717,1900,1182,589,1580,1452,2477
+1,"Steven H. Smith",REP,Mayor                  ,,,Y,0,0,0,1,0,1,1,1,0,0,1,1,0,0
+1,"Mack Clifton",DEM,Mayor                  ,,,Y,1,0,0,2,2,1,0,0,0,0,1,0,2,1
+1,"Sheila Dixon",DEM,Mayor                  ,,,Y,2472,1401,2357,3253,2979,1914,2694,2435,1265,3090,3289,535,2078,1677
+1,"Frank Francisco Logan",IND,Mayor                  ,,,Y,0,1,0,1,0,2,0,2,4,0,1,5,2,1
+1,"Sarah Klauda",UNF,Mayor                  ,,,Y,3,2,2,0,2,1,0,0,0,1,0,3,0,1
+1,"LaVern AW. Murray",UNF,Mayor                  ,,,Y,0,4,2,6,1,3,0,2,1,0,2,5,1,2
+1,"Other Write-Ins",BOT,Mayor                  ,,,Y,43,41,42,34,34,33,27,26,71,29,27,36,33,65
+1,"Shannon Wright",REP,President City Council,,,,573,1744,1144,570,713,1743,714,1070,3428,877,390,4067,1835,1191
+1,"Bernard C. Jack Young",DEM,President City Council,,Y,,8073,6561,7835,7509,7652,6130,7668,6806,8502,8598,7503,5935,7392,7871
+1,"Susan Gaztanaga",LIB,President City Council,,,,268,235,283,191,172,311,172,220,766,279,122,723,361,354
+1,"Connor Meek",GRN,President City Council,,,,809,368,460,239,209,329,341,285,933,555,204,652,771,1178
+1,"Sharon Black",UNF,President City Council,,,,451,244,340,408,326,314,335,289,422,439,374,291,380,528
+1,"Other Write-Ins",BOT,President City Council,,,Y,62,78,41,54,52,30,58,47,53,62,45,42,43,66
+1,"Joan M. Pratt",DEM,Comptroller            ,,Y,,8802,7308,8754,8183,8229,7085,8455,7498,10184,9481,8078,7409,8551,9125
+1,"Jon Bombach",LIB,Comptroller            ,,,,1145,1118,1119,633,607,1400,693,975,3221,1075,464,3575,1827,1711
+1,"Other Write-Ins",BOT,Comptroller            ,,,Y,37,50,29,24,27,37,24,23,58,30,27,63,53,52
+1,"Matthew McDaniel",REP,Member City Council,001,,,,,,,,,,,,,,4491,,
+1,"Zeke Cohen",DEM,Member City Council,001,Y,,,,,,,,,,,,,7460,,
+1,"Other Write-Ins",BOT,Member City Council,001,,Y,,,,,,,,,,,,38,,
+1,"Gregory Yarberough",REP,Member City Council,002,,,,,,,,,,1073,,,,,,
+1,"Brandon M. Scott",DEM,Member City Council,002,Y,,,,,,,,,7514,,,,,,
+1,"Other Write-Ins",BOT,Member City Council,002,,Y,,,,,,,,23,,,,,,
+1,"Ryan Dorsey",DEM,Member City Council,003,Y,,,,,,,,,,,,,,8636,
+1,"G. Andreas Spilly Spiliadis",GRN,Member City Council,003,,,,,,,,,,,,,,,1627,
+1,"Other Write-Ins",BOT,Member City Council,003,,Y,,,,,,,,,,,,,59,
+1,"William Sam Broaddus, III",REP,Member City Council,004,,,,,1514,,,,,,,,,,,
+1,"Bill Henry",DEM,Member City Council,004,Y,,,,8415,,,,,,,,,,,
+1,"Other Write-Ins",BOT,Member City Council,004,,Y,,,55,,,,,,,,,,,
+1,"Isaac Yitzy Schleifer",DEM,Member City Council,005,Y,,,8135,,,,,,,,,,,,
+1,"Derrick Lennon",DEM,Member City Council,005,,Y,,284,,,,,,,,,,,,
+1,"Other Write-Ins",BOT,Member City Council,005,,Y,,245,,,,,,,,,,,,
+1,"Sharon Green Middleton",DEM,Member City Council,006,Y,,,,,,,,8058,,,,,,,
+1,"Richard Thomas White, Jr.",GRN,Member City Council,006,,,,,,,,,840,,,,,,,
+1,"Anthony s White",DEM,Member City Council,006,,Y,,,,,,,67,,,,,,,
+1,"Other Write-Ins",BOT,Member City Council,006,,Y,,,,,,,40,,,,,,,
+1,"Tamara Purnell",REP,Member City Council,007,,,,,,,,,,,,1133,,,,
+1,"Leon F. Pinkett, III",DEM,Member City Council,007,Y,,,,,,,,,,,8587,,,,
+1,"Nnamdi Scott",OTH,Member City Council,007,,,,,,,,,,,,836,,,,
+1,"Other Write-Ins",BOT,Member City Council,007,,Y,,,,,,,,,,31,,,,
+1,"Joseph Brown, Jr.",REP,Member City Council,008,,,,,,859,,,,,,,,,,
+1,"Kristerfer Burnett",DEM,Member City Council,008,Y,,,,,7910,,,,,,,,,,
+1,"Other Write-Ins",BOT,Member City Council,008,,Y,,,,20,,,,,,,,,,
+1,"Kenneth Earl Ebron, Jr.",REP,Member City Council,009,,,,,,,,,,,,,501,,,
+1,"John T. Bullock",DEM,Member City Council,009,Y,,,,,,,,,,,,7717,,,
+1,"Jamie Latear Frierson",GRN,Member City Council,009,,,,,,,,,,,,,284,,,
+1,"Other Write-Ins",BOT,Member City Council,009,,Y,,,,,,,,,,,19,,,
+1,"Christine Digman",REP,Member City Council,010,,,,,,,,1875,,,,,,,,
+1,"Edward L. Reisinger",DEM,Member City Council,010,Y,,,,,,,6685,,,,,,,,
+1,"Amanda E. Maminski",GRN,Member City Council,010,,Y,,,,,,42,,,,,,,,
+1,"Other Write-Ins",BOT,Member City Council,010,,Y,,,,,,36,,,,,,,,
+1,"Eric Costello",DEM,Member City Council,011,Y,,,,,,,,,,12807,,,,,
+1,"Other Write-Ins",BOT,Member City Council,011,,Y,,,,,,,,,348,,,,,
+1,"Robert Stokes, Sr.",DEM,Member City Council,012,Y,,7003,,,,,,,,,,,,,
+1,"Ian Schlakman",GRN,Member City Council,012,,,1385,,,,,,,,,,,,,
+1,"Frank W. Richardson",UNF,Member City Council,012,,,502,,,,,,,,,,,,,
+1,"Dan Sparaco",UNF,Member City Council,012,,,1191,,,,,,,,,,,,,
+1,"Other Write-Ins",BOT,Member City Council,012,,Y,48,,,,,,,,,,,,,
+1,"George Johnson",REP,Member City Council,013,,,,,,,606,,,,,,,,,
+1,"Shannon Sneed",DEM,Member City Council,013,Y,,,,,,8295,,,,,,,,,
+1,"Other Write-Ins",BOT,Member City Council,013,,Y,,,,,20,,,,,,,,,
+1,"Mary Pat Clarke",DEM,Member City Council,014,Y,,,,,,,,,,,,,,,10181
+1,"David Harding",UNF,Member City Council,014,,,,,,,,,,,,,,,,1036
+1,"Other Write-Ins",BOT,Member City Council,014,,Y,,,,,,,,,,,,,,40
+1,"Shannon E. Avery",BOT,Judge of the Circuit Court,08,Y,,5225,4736,5504,4847,5110,4444,5361,4689,7612,5642,4475,5752,5702,6216
+1,"Audrey J. Sylvia Carrion",BOT,Judge of the Circuit Court,08,Y,,3993,4110,4542,3755,3485,3381,4256,3654,6769,4324,3317,5022,4642,5367
+1,"Michael A. DiPietro",BOT,Judge of the Circuit Court,08,Y,,4190,4333,4876,3913,3833,3958,4511,4085,7466,4709,3490,6303,5300,5666
+1,"Karen Chaya Friedman",BOT,Judge of the Circuit Court,08,Y,,4536,5984,5042,4393,4051,3857,4663,4175,7002,4956,3940,5122,5104,5814
+1,"Wanda Keyes Heard",BOT,Judge of the Circuit Court,08,Y,,4507,4318,4997,4327,4028,3807,4662,4123,6778,4842,3914,4883,5086,5661
+1,"Cynthia H. Jones",BOT,Judge of the Circuit Court,08,Y,,4853,4578,5322,4767,4299,4095,4989,4471,7067,5226,4259,5175,5402,5779
+1,"Other Write-Ins",BOT,Judge of the Circuit Court,08,,Y,234,235,232,160,156,197,160,154,356,187,136,333,280,310
+1,"Dan Friedman",BOT,Judge Special Appeals At Large,,Y,,6594,6701,6719,5986,5998,5770,6448,5716,9694,7137,5761,7566,6908,7470
+2,"Dan Friedman",BOT,Judge Special Appeals At Large,,Y,,1949,1176,1922,1943,1910,1943,1711,1901,1793,2150,1880,1870,2162,1642

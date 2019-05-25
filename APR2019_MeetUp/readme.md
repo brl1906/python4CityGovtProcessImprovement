@@ -9,6 +9,6 @@ profit space to give it a whirl to improve communications in one of their
 projects.
 
 ## More Information
-Please check out the notebooks from the talk [here](www.google.com) in the repo
+Please check out the notebooks from the talk [here](whttps://github.com/brl1906/python4CityGovtProcessImprovement/blob/master/APR2019_MeetUp/4-3-2019-brl1906-plotly-express-arrests-data-EDA.ipynb) in the repo
 or read more about Plotly express here in this [Medium article](https://medium.com/@plotlygraphs/introducing-plotly-express-808df010143d), the [Plotly express gallery](https://www.plotly.express/)
 and finally--or primarily, rather--in their [project docs](https://www.plotly.express/plotly_express/)

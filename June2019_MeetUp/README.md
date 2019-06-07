@@ -1,6 +1,4 @@
-EDIT:
-
-Presentation slides: [`01_presentation.pdf`](https://github.com/department-of-general-services/python4CityGovtProcessImprovement/blob/master/June2019_MeetUp/01_presentation.pdf)
+**Presentation slides: [`01_presentation.pdf`](https://github.com/department-of-general-services/python4CityGovtProcessImprovement/blob/master/June2019_MeetUp/01_presentation.pdf)**
 
 This month Christine Zhang from The Baltimore Sun joins us to talk about data analysis workflows using both Python and R! She'll talk through an article/project she worked on where she needed to use both Python and R to help parse and understand the data.
 

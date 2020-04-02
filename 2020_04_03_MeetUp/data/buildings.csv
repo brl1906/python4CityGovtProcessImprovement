@@ -1,0 +1,44 @@
+bl_id,block_lot,name,address,site_id,lat,lon, sq_ft ,property_type,agency_occupied,year_built,neighborhood,council_district
+B00005,1255001,DGS Public Building Maintenance Shop,500 Fallsway,21202,39.29588,-76.61028," 18,144.00 ","Warehouse, self storage",DGS,1945,Penn - Fallsway,11
+B00011,644001,First Mariner Arena,201 West Baltimore St,21201,39.28862,-76.61862," 697,620.00 ","Public Assembly, Convention Center",Civic Centers,1960,Downtown,11
+B00016,4543B027,Baltimore City Police North Western District Radio Tower,5271 Reisterstown Rd,21215,39.34449,-76.685," 1,860.00 ","Warehouse, self storage",BCPD,NA,Woodmere,5
+B00022,1255002,Baltimore City Mounted Police Unit,411 Fallsway St,21202,39.29556,-76.61028," 11,270.59 ","Public Services, police",BCPD,NA,Penn - Fallsway,11
+B00023,1334001,Baltimore City Police Central District,500 East Baltimore Street Baltimore ,21202,39.29,-76.60854," 56,228.00 ","Public Services, police",BCPD,NA,Downtown,NA
+B00025,5387002A,Baltimore City Police North Eastern District,1900 Argonne Drive Baltimore ,21218,39.340753,-76.582806," 29,314.00 ","Public Services, police",BCPD,1950,Morgan State University,3
+B00026,4543B027,Baltimore City Police North Western District,5271 Reisterstown Rd,21215,39.34462,-76.685455," 56,228.00 ","Public Services, police",BCPD,1965,Middle Branch - Reedbird Parks,10
+B00028,7610011,Baltimore City Police Southern District,10 Cherry Hill Rd,21225,39.25288,-76.6172," 29,314.00 ","Public Services, police",BCPD,1965,Middle Branch - Reedbird Parks,10
+B00029,6332009,Baltimore City Police South Eastern District,5710 Eastern Avenue Baltimore ,21224,39.287688,-76.547422," 26,177.00 ","Public Services, police",BCPD,1950,Hopkins Bayview,1
+B00030,2132020,Baltimore City Police South Western District,424 Fonthill Av,21223,39.27834,-76.663755," 26,224.11 ","Public Services, police",BCPD,1957,Gwynns Falls,10
+B00031,60007,Baltimore City Police Western District,1034 N Mount St,21217,39.300666,-76.644706," 22,024.65 ","Public Services, police",BCPD,1961,Sandtown - Winchester,9
+B00034,3499001,Baltimore City Police K9 Unit,Mansion House Dr,21217,39.3238,-76.64389," 26,177.00 ","Public Services, police",BCPD,NA,Druid Hill Park,7
+B00035,3357E009A,Baltimore City Police Northern District,2201 West Cold Spring Lane,21209,39.34304,-76.65236," 25,508.47 ","Public Services, police",BCPD,2001,Woodberry,6
+B00036,3658075A,Baltimore City Police Department Warrant Task Force,242 West 29th St,21211,39.32306,-76.62223," 30,310.79 ","Public Services, police",BCPD,1992,Remington,14
+B00039,4441B001,Pimlico Academy Public Safety Training Facility Police,3500 West Northern Parkway,21215,39.354328,-76.682903," 36,738.15 ","Public Services, police",BCPD,NA,Glen,5
+B00048,1337001,Health Department Headquarters,1001 E Fayette St,21202,39.29097,-76.6031," 277,322.95 ",Office,HEALTH,2001,Jonestown,12
+B00051,1331016,MECU Building,401 E Fayette St,21202,39.29028,-76.60994," 46,668.00 ",Office,MULTI,1981,Downtown,11
+B00073,1306C001,Fallsway Substation,201 Fallsway St,21202,39.2922,-76.6069," 25,507.00 ","Warehouse, self storage",DGS,1940,Jonestown,12
+B00075,5211009,Northeast DGS Fleet Substation,4325 York Rd,21212,39.34171,-76.60918," 4,764.00 ","Warehouse, self storage",DGS,1979,Wilson Park,9
+B00076,2959B191,Northwest Substation,4410 Lewin Av,21215,39.33955,-76.67869," 4,764.00 ","Warehouse, self storage",DOT,1966,Dolefield,6
+B00100,1280003,Eastern Health District Building,620 N Caroline St,21205,39.2977,-76.59796," 29,232.00 ","Healthcare, Urgent Care/Clinic/Out Patient",HEALTH,1939,Dunbar- Broadway,12
+B00101,1280005,WIC Center/ Dunbar Child Care Academy,621 North Eden Street,21231,39.29068052,-76.60768333," 16,448.00 ",Office,MULTI,NA,NA,NA
+B00102,295002,Druid Health District Building,1515 W North Av,21217,39.30983,-76.64138," 36,012.00 ","Healthcare, Urgent Care/Clinic/Out Patient",HEALTH,1960,Druid Heights,7
+B00104,7612E053A,2492 Giles Road,2490 Giles Rd,21225,39.2533,-76.63066," 20,693.00 ",VACANT,HEALTH (BARCS),1976,Cherry Hill,10
+B00120,504001,Waxter Senior Center,1000 Cathedral St,21201,39.30119,-76.61804," 50,386.44 ","Healthcare, Senior Care Community",HEALTH,1972,Mid - Town Belvedere,11
+B00163,1248001,The Weinberg Housing and Resource Center,620 Fallsway St,21202,39.29733,-76.61064," 40,949.00 ","Lodging, Residential Care",MOHS,1945,Penn - Fallsway,11
+B00167,644001,Parking Authority Offices,200 West Lombard St Suite B,21201,39.28774,-76.61863," 15,209.00 ",Office,PABC,1960,Downtown,11
+B00181,5165A012,Northern Community Action Center,5225 York Rd,21212,39.35381,-76.60952," 14,344.00 ","Public Assembly, Other",CAC,1950,Woodbourne-McCabe,4
+B00182,3321023,Lower Park Heights Multi Purpose Building,3939 Reisterstown Rd,21215,39.33373,-76.66336," 33,707.00 ","Public Assembly, Other",CAC,1978,Central Park Heights,6
+B00183,3448030,Reservoir Hill / Metro Delta Head Start,2001 Park Av,21217,39.31334,-76.62806," 18,744.00 ","Education, vocational",VACANT,1880,Resevoir Hill,7
+B00220,1303A015,Peale Museum,225 N Holliday St,21202,39.29186,-76.61007," 13,686.00 ","Public Assembly, Museum",DGS HISTORIC,1814,Downtown,11
+B00228,1358012,Carroll Mansion Musuem,802 Lombard St,21202,39.28855,-76.6044," 12,527.19 ","Public Assembly, Museum",DGS HISTORIC,1812,Jonestown,12
+B00229,1377016,"Jean and Lillian Hofmeister Museum Building,Star Spangled Banner Museum and Flag House",844 E Pratt St,21202,39.28776,-76.6036," 2,117.29 ","Public Assembly, Museum",DGS HISTORIC,2003,Jonestown,12
+B00230,1799003,President's Street Station Civil War Museum,601 President St,21202,39.28398,-76.60247," 4,543.28 ","Public Assembly, Museum",DGS HISTORIC,1851,Inner Harbor,1
+B02002,675080,Babe Ruth Birthplace and Orioles Museum,216 S Emory St,21230,39.28557,-76.62481," 7,742.00 ","Public Assembly, Museum",DGS HISTORIC,1880,Ridgely's Delight,11
+B04045,1303A016,Baltimore City Fire Marshal Office,410 E Lexington St,21202,39.29146,-76.60955," 13,354.00 ",Office,BCFD,1922,Downtown,11
+B06043,6150A003D,Fleet Central Garage Main Building,3800 E Biddle St,21213,39.30612,-76.56612," 105,914.00 ","Warehouse, self storage",DGS,2008,Orangevile Industrial Area ,13
+B06047,6169001F,4601 East Monument Transitional Shelter,4601 E Monument St,21205,39.29945,-76.55806," 17,400.00 ","Lodging, Other",MOHS,1950,Orangeville ,2
+B06107,1377016,1812 Museum Flag House Building,844 E Pratt St,21202,39.28751,-76.60333," 12,685.55 ","Public Assembly, Museum",DGS HISTORIC,1793,Jonestown,12
+B06108,1377016,1812 Museum 1957 Building,844 E Pratt St,21202,39.2875,-76.60334," 3,171.65 ","Public Assembly, Museum",DGS HISTORIC,1957,Jonestown,12
+B08000,5211009,Northeast DGS Fleet Substation Garage,4325 York Rd,21212,39.34193,-76.60871, 893.00 ,"Warehouse, self storage",DGS ,NA,Wilson Park,4
+B08003,6195002,Department of Transportation Main Impound Facility,6700 Pulaski Hwy Rosedale,21237,39.30593,-76.53758, 510.00 ,Office,DGS,NA,Pulaski Industrial Area,NA
+B08020,1630001,Eastside Career Center,3001 E Madison St,21205,39.29973,-76.575," 27,910.00 ","Education, vocational",MOED,1955,Maidson- Eastend,NA

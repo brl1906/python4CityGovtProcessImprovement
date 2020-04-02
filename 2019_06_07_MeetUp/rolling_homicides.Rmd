@@ -1,0 +1,63 @@
+---
+title: "Rolling 30-day homicides calculation"
+author: "Christine Zhang"
+date: "6/7/2019"
+output: html_document
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
+Load packages
+
+```{r, message=FALSE, warning=FALSE}
+library('tidyverse')
+library('lubridate')
+library('reticulate')
+
+# specify which Python to use
+use_python('/Users/czhang/anaconda3/bin/python', required = TRUE)
+```
+
+Read in individual-level homicides data and group by date.
+
+```{r, message=FALSE}
+
+homicides <- read_csv('input/baltimore-homicide-victims_oct8_2018.csv')
+homicides$date <- ymd(homicides$date_found)
+homicides <- homicides %>% filter(year(date_found) >= 2007)
+homicides_grouped <- homicides %>% group_by(date) %>% summarise(n = n())
+
+head(homicides_grouped)
+```
+
+Use pandas to fill in the missing dates with 0.
+
+```{python}
+import pandas as pd
+homicides_grouped = r.homicides_grouped
+homicides_grouped['date'] = pd.to_datetime(homicides_grouped['date'])
+homicides_grouped.index = homicides_grouped['date']
+filled = homicides_grouped.resample("1d").sum().fillna(0)
+
+filled.head()
+```
+
+Use pandas to calculate the rolling 30-day sum of homicides.
+
+```{python}
+rolling = filled.rolling('30D', min_periods = 1).sum().reset_index()
+rolling.head()
+```
+
+Now use R to plot it.
+
+```{r}
+ggplot(py$rolling, aes(x = date, y = n)) + 
+  geom_line() + labs(x = 'year', 
+                     y = 'number in last 30 days', 
+                     title = 'rolling 30 day homicides')
+```
+
+
